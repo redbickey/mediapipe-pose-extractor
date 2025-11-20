@@ -86,7 +86,7 @@ opencv-python>=4.8.0
 mediapipe>=0.10.0
 numpy>=1.24.0
 Pillow>=10.0.0
-tkinterdnd2>=1.7.0
+tkinterdnd2>=0.4.3
 ```
 
 ```bash
